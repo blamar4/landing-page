@@ -14,8 +14,8 @@ body {
     display: flex;
     justify-content: space-between;
     color: white;
-    padding: 8px;   
-    margin-bottom: 18px; 
+    padding: 8px;
+    padding-bottom: 56px;    
 }
 .header-logo {
     font-weight: 700;
@@ -38,6 +38,8 @@ a {
 .container-one {
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    padding-bottom: 56px;
 }
 .subcontainer-one {
     width: 400px;
