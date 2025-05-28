@@ -45,6 +45,10 @@ a {
     flex-direction: column;
     padding: 10px;
 }
+img {
+    width: 400px;
+
+}
 
 
 
